@@ -23,7 +23,8 @@ The backend of this application is hosted on Heroku, the Database is hosted on M
 <li>Made using React so it Load only once</li>
 </ul><ul>
 <li>Better user experiance</li>
-</ul><h2>Setup</h2>
+</ul><h2>Screenshots</h2>
+<hr><p><img src="ss/ss1.png" alt=""></p><p><img src="ss/ss2.png" alt=""></p><p><img src="ss/ss3.png" alt=""></p><p><img src="ss/ss4.png" alt=""></p><h2>Setup</h2>
 <hr><p>Your pc required following software pre installed to run this project</p>
 <ol>
 <li>Git</li>
